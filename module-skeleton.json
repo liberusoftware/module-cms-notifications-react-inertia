@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-notifications-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-notifications",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-notifications-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/cms-notifications.md",
+  "presentationPlan": "projects/cms/react/cms-notifications.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
